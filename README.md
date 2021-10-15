@@ -1,2 +1,2 @@
 # RssReaderMate
-RSS subscription
+RSS subscription.
